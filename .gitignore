@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+Gitignore
+
+# for mac
+
+.DS_Store
+.env
+npm-debug.log
+.idea/
+.vscode/
+node_modules/
